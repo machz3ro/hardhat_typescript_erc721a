@@ -1,0 +1,35 @@
+# vscode
+.vscode
+
+# hardhat
+artifacts
+cache
+deployments
+node_modules
+coverage
+coverage.json
+typechain
+
+# don't push the environment vars!
+.env
+
+# local env files
+.env*.local
+
+# Built application files
+.DS*
+*.apk
+*.ap_
+*.aab
+*.pem
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
